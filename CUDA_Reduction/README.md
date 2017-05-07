@@ -1,1 +1,0 @@
-A parallel sum reduction that computes the sum of a large arrays of values.
