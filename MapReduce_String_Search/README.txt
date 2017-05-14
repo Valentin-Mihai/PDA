@@ -1,0 +1,1 @@
+Search for all of the search strings in the input_file.txt and output the number of tweets that contained each search string.

@@ -1,0 +1,1 @@
+#Un laptop vechi nu poate sa ruleze ultima versiune de Cuda, spre deosebire de un laptop nou
